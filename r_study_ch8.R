@@ -4,7 +4,7 @@ library(ggmap)
 
 #8-2 "서울"을 지도에 표시하기
 #google API 키 등록
-register_google(key="AIzaSyDFnHiauDjCBHd9gmeCbCePVU5Y9xITuos")     #구글 API 키 등록
+register_google(key="AIzaSy,,,,,,,~,,,,,,ITuos")     #구글 API 키 등록
 
 #get_map()함수 이용
 map <-get_map(location ="서울")
